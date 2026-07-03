@@ -1,142 +1,225 @@
 # 🎯 Strategic Systems, AI Governance & Logic Risk Research Portfolio
 
-> **For Hiring Managers, Founders, and AI/Web3 Security Teams**
+> **For Hiring Managers, Recruiters, Founders, and AI/Web3 Security Teams**
 >
-> This repository showcases my independent research in **Logic-Layer Security, AI Governance, Distributed Systems, Financial Infrastructure, and Systemic Risk Analysis**.
+> Welcome to my independent research portfolio.
 >
-> Rather than focusing solely on software vulnerabilities, my work explores how failures emerge from **decision logic, governance structures, incentive design, human-AI interaction, and complex system dynamics**—even when every individual component appears to function correctly.
+> This repository contains **70+ structured research case studies** covering **Logic-Layer Risk Analysis, AI Governance, Decision Systems, Smart Contract Security, Distributed Systems, Financial Infrastructure, and Systemic Risk**.
+>
+> My research focuses on identifying hidden failure modes that emerge from **decision logic, governance structures, execution paths, distributed coordination, incentive design, and AI-driven systems**—often before they become real-world incidents.
 
 ---
 
 # 📊 Portfolio at a Glance
 
 - 📚 70+ Independent Research Case Studies
+- 🔍 Logic-Layer Risk Analysis
 - 🤖 AI Governance & Decision Systems
-- 🔐 Smart Contract Security & Logic Auditing
-- 🌐 Web3 & DeFi Risk Analysis
-- 🏦 Financial Infrastructure & Settlement Systems
-- ⚙️ Distributed Systems & Consensus Research
-- 📈 Systemic Risk & Complex Systems Analysis
+- 🌐 Web3 & Smart Contract Security
+- 🏛 Governance Systems
+- 🏦 Financial Infrastructure
+- ⚙️ Distributed Systems
+- 📈 Systemic Risk Research
 
 ---
 
 # 🌟 Featured Research (Recommended Reading)
 
-## 🧠 1. Strategic Systems & Risk Logic Portfolio
-**Issue #8 — Strategic Systems & Risk Logic Portfolio**
+These projects best represent my analytical approach and research interests.
 
-### Focus
+---
+
+## 🧠 Strategic Systems & Risk Logic Portfolio *(Start Here)*
+
+**Overview of my research methodology, systems thinking approach, and logic-layer risk analysis.**
+
+**Topics**
 - Logic-Layer Risk Analysis
-- Systems Thinking
-- AI Governance
-- Financial Infrastructure
+- Governance Systems
 - Decision Architecture
+- Systems Thinking
+- Risk Engineering
 
-### Why It Matters
-A high-level overview of my research philosophy and analytical approach across AI, Web3, financial systems, and complex socio-technical infrastructures.
+➡️ **[Read Research →](https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues/8)**
 
 ---
 
-## 📊 2. The Metric Collapse
-**Issue #73 — When Measurement Becomes the Source of Systemic Failure**
+## 📊 Case 68 — The Metric Collapse
 
-### Focus
+**When Measurement Becomes the Source of Systemic Failure**
+
+**Topics**
 - Goodhart's Law
-- AI Optimization Failures
+- AI Governance
 - KPI Gaming
-- Governance Risk
 - Feedback Loops
+- Systemic Failure
 
-### Why It Matters
-Explores how optimization around metrics can unintentionally create systemic failure by disconnecting performance indicators from real-world objectives.
+➡️ **[Read Research →](https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues/73)**
 
 ---
 
-## 🏦 3. The Hedging Paradox
-**Issue #72 — When Every Bank Reduced Risk and the System Collapsed**
+## 🏦 Case 67 — The Hedging Paradox
 
-### Focus
+**When Every Bank Reduced Risk and the System Collapsed**
+
+**Topics**
 - Systemic Risk
 - Financial Contagion
 - Coordination Failure
-- Emergent Behavior
+- Emergent Behaviour
 
-### Why It Matters
-Demonstrates how individually rational risk-reduction strategies can collectively destabilize an entire financial ecosystem.
+➡️ **[Read Research →](https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues/72)**
 
 ---
 
-## 🌐 4. Consensus Death
-**Issue #67 — Distributed State Split-Brain in Global Financial Infrastructure**
+## 🌐 Consensus Death
 
-### Focus
+**Distributed State Split-Brain in Global Financial Infrastructure**
+
+**Topics**
 - Distributed Systems
-- Consensus Failures
+- Consensus Failure
 - Settlement Integrity
-- State Synchronization
+- Financial Infrastructure
 
-### Why It Matters
-Analyzes how inconsistent system states across distributed financial infrastructure can lead to catastrophic operational failures.
+➡️ **[Read Research →](https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues/67)**
 
 ---
 
-## 🤖 5. AI Governance & Decision Logic Audit
-**Issue #66 — AI Governance & Decision Logic Audit Portfolio**
+## 🤖 AI Governance & Decision Logic Audit
 
-### Focus
+**Topics**
 - AI Governance
+- Decision Integrity
 - Human Oversight
-- Decision Auditing
 - Alignment
 - Accountability
 
-### Why It Matters
-Examines governance challenges in AI-driven decision systems beyond traditional model accuracy and performance metrics.
+➡️ **[Read Research →](https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues/66)**
 
 ---
 
-## ⚔️ 6. Solidity Smart Contract Security Lab
-**Issue #4 — Solidity Smart Contract Security Lab**
+## 💧 Algorithmic Liquidity Collapse
 
-### Focus
-- Smart Contract Security
+**Recursive AI Settlement Conflict Analysis**
+
+**Topics**
+- Recursive Systems
+- Financial Infrastructure
+- AI Decision Systems
+- Settlement Logic
+
+➡️ **[Read Research →](https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues/65)**
+
+---
+
+## 🌍 Synthetic Sovereignty Collapse
+
+**AI-Driven Global Monetary Contagion**
+
+**Topics**
+- AI Governance
+- Monetary Systems
+- Global Risk
+- Financial Stability
+
+➡️ **[Read Research →](https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues/68)**
+
+---
+
+## ⚔️ Solidity Smart Contract Security Lab
+
+**Topics**
+- Solidity
 - Reentrancy
 - Access Control
 - Logic Vulnerabilities
-- Secure Coding Practices
+- Secure Coding
 
-### Why It Matters
-Demonstrates hands-on experience in identifying smart contract vulnerabilities, designing exploit scenarios, and implementing secure mitigation strategies.
+➡️ **[Read Research →](https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues/4)**
 
 ---
 
-# 🔬 Research Domains
+## 🔥 Full-Stack Exploit Chain in AI–DeFi Systems
 
-- Logic-Layer Security
-- AI Governance & Decision Systems
-- Smart Contract Auditing
-- Web3 & DeFi Security
+**From Logic Flaws to Protocol Collapse**
+
+**Topics**
+- AI Security
+- DeFi Exploits
+- Multi-Stage Attack Chains
+- Protocol Risk
+
+➡️ **[Read Research →](https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues/30)**
+
+---
+
+## 🌪️ The Perfect Storm
+
+**Hybrid AI + Web3 Exploit Case Study**
+
+**Topics**
+- Hybrid Systems
+- AI Security
+- Web3 Security
+- Logic Exploitation
+
+➡️ **[Read Research →](https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues/61)**
+
+---
+
+# 🔬 Research Areas
+
+### Logic-Layer Security
+- Execution Path Validation
+- Rule Conflict Detection
+- Failure Cascade Analysis
+- Smart Contract Logic
+
+### AI Governance
+- Decision Integrity
+- Fairness Analysis
+- Alignment
+- Human Oversight
+
+### Web3 Security
+- Smart Contract Security
+- Governance Analysis
+- DeFi Risk
+- Protocol Security
+
+### Financial Infrastructure
+- Settlement Systems
+- Treasury Logic
+- Consensus
 - Distributed Systems
-- Financial Infrastructure
-- Fraud & Risk Analytics
-- Systemic Risk Research
-- Complex Systems Analysis
-- Security Architecture
+
+### Systemic Risk
+- Recursive Failures
+- Emergent Behaviour
+- Coordination Failures
+- Complex Systems
 
 ---
 
 # 🎯 Research Philosophy
 
-Most critical security incidents are **not caused by a single vulnerability**.
+Most critical failures are **not caused by a single software bug**.
 
-They emerge from the interaction between **software, governance, incentives, AI decision-making, financial infrastructure, and human behavior**.
+They emerge from interactions between **software, governance, AI decision-making, distributed systems, incentives, and human behaviour**.
 
 My research focuses on identifying these hidden failure modes before they evolve into real-world incidents.
 
 ---
 
-# 🚀 Objective
+# 🚀 Target Roles
 
-I am passionate about researching and improving the security, resilience, and governance of complex digital systems.
-
-This portfolio demonstrates my approach to analyzing failures across **AI, Web3, Financial Infrastructure, Distributed Systems, and Logic-Driven Decision Architectures** through structured, scenario-based research.
+- Logic Analyst
+- Logic Risk Analyst
+- Governance Risk Analyst
+- Decision Systems Analyst
+- AI Governance Analyst
+- Protocol Logic Analyst
+- Web3 Risk Researcher
+- Security Researcher

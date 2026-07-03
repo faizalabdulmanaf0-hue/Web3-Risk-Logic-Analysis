@@ -1,18 +1,18 @@
-# 🎯 Curated Risk & Logic Audit Showcase
+# 🎯 Strategic Systems, AI Governance & Web3 Risk Portfolio
 
-> **Hiring Managers & Web3 Recruiter Guide:** To quickly evaluate my technical skills and smart contract auditing capabilities, please review these selected issues representing high-impact Web3 risks and real-world vulnerabilities.
+> **Hiring Managers & Web3/AI Recruiters:** To quickly evaluate my multidisciplinary expertise in Decision Systems, Smart Contract Auditing (Solidity), and AI Risk Governance, please review my curated master portfolio and deep-dive technical labs below.
 
-### 🛡️ 1. Smart Contract & Business Logic Auditing
-* **[Issue #1: Logic-Audit-Portfolio](https://github.com)**
-  * **Focus**: *Reentrancy Vulnerability, Checks-Effects-Interactions (CEI) Pattern Violations, and System-Level Drain Attacks.*
-  * **Value**: Demonstrates my ability to perform deep manual code analysis. Shows how I identify critical race conditions where state updates occur after external calls, providing professional-grade remediation strategies to secure protocol funds.
+### 👑 1. Master Portfolio Hub (Recommended First Read)
+* **[Issue #8: Strategic Systems & Risk Logic Portfolio](https://github.com)**
+  * **Focus**: *Multi-Criteria Investment Gatekeeping, Trustless Governance, AI Bias Detection, and Integrated Fraud Response.*
+  * **Value**: My executive summary that showcases how I bridge the gap between AI data integrity, blockchain infrastructure, and high-level strategic systems thinking.
 
-### 🔑 2. Access Control & Governance Security
+### 🛡️ 2. Hands-On Smart Contract Security Lab
+* **[Issue #4: Solidity Smart Contract Security Lab](https://github.com)**
+  * **Focus**: *Solidity Vulnerabilities, Reentrancy Attacks, Broken Access Control, Logic Flaws (Locked Funds), and OpenZeppelin Mitigation Patterns.*
+  * **Value**: Proves my code-level engineering skills. Demonstrates my ability to perform manual audits, write exploit scenarios, and implement secure production-grade coding practices to prevent multi-million dollar DeFi drains.
+
+### 🔑 3. Access Control & Infrastructure Security
 * **[Issue #60: "They Didn't Hack It — They Owned It"](https://github.com)**
-  * **Focus**: *Privileged Access Control Flaws, Admin Key Compromise, and Rug Pull Analysis.*
-  * **Value**: Proves deep understanding of decentralized governance (DAOs) and the macroeconomic impact of security structure designs against insider threats or centralized failures.
-
-### 📊 3. Automated Risk Mitigation & Data Analytics
-* **[Issue #2: Risk and Data Bias Mitigation](https://github.com)**
-  * **Focus**: *Data bias mitigation, on-chain anomaly detection, and Python/SQL automated risk analysis.*
-  * **Value**: Showcases my proficiency in using Python and SQL scripts to intercept, analyze, and mitigate data bias or transaction anomalies within Web3/DeFi protocols.
+  * **Focus**: *Privileged Access Control, Admin Key Compromise, and Rug Pull Analysis.*
+  * **Value**: Explores the macroeconomic and structural risks of centralized admin controls in decentralized protocols (DAOs) and governance systems.

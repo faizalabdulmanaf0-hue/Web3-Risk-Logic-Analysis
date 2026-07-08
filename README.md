@@ -64,6 +64,8 @@ It failed because it perfectly optimized an objective function that prioritized 
 
 > **Disclaimer:** This fictional case study was created for educational and portfolio purposes only.
 
+https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues/78
+
 ## 🧠 Strategic Systems & Risk Logic Portfolio *(Start Here)*
 
 **Overview of my research methodology, systems thinking approach, and logic-layer risk analysis.**

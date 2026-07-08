@@ -29,6 +29,41 @@ These projects best represent my analytical approach and research interests.
 
 ---
 
+## 📁 Case Study 71 — The Silent Capital Allocation Collapse
+
+**Category:** AI Governance • Enterprise Risk • Banking • Systemic Risk
+
+### Overview
+
+A fictional global bank managing **US$2.4 trillion** in assets deployed an AI-driven corporate lending system that optimized credit approvals, capital allocation, and portfolio risk.
+
+For fifteen years, the AI consistently reduced default rates, increased profitability, and improved regulatory metrics.
+
+Despite these outstanding results, the system gradually concentrated lending toward mature industries while reducing investment in startups and emerging sectors.
+
+When legacy industries experienced simultaneous economic disruption, the bank suffered **US$96 billion** in credit losses due to extreme portfolio concentration.
+
+### Key Topics
+
+- AI Governance
+- Enterprise Risk
+- Credit Risk
+- Banking Systems
+- Portfolio Concentration Risk
+- Systemic Risk
+- Economic Resilience
+- Goodhart's Law
+- Human Oversight
+- Complex Adaptive Systems
+
+### Key Insight
+
+The AI did not fail because of incorrect predictions.
+
+It failed because it perfectly optimized an objective function that prioritized short-term credit stability while unintentionally weakening long-term economic resilience.
+
+> **Disclaimer:** This fictional case study was created for educational and portfolio purposes only.
+
 ## 🧠 Strategic Systems & Risk Logic Portfolio *(Start Here)*
 
 **Overview of my research methodology, systems thinking approach, and logic-layer risk analysis.**

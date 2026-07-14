@@ -1,183 +1,67 @@
-# 🧠 Strategic Systems, AI Governance & Logic Risk Research Portfolio
+# 🛡️ Protocol Security Research Portfolio
 
-> Independent research on AI Governance, Logic-Layer Risk Analysis, Smart Contract Security, Financial Infrastructure, Distributed Systems, Enterprise Risk, and Systemic Risk.
-
----
-
-# 📚 Research Directory
-
-Browse the complete collection of research case studies:
-
-➡️ **INDEX.md**
+Independent security research focused on **protocol security, smart contract security, governance mechanisms, business logic vulnerabilities, distributed systems, financial infrastructure, and AI-enabled decision systems.**
 
 ---
 
 # 👋 About
 
-Welcome to my independent research portfolio.
+Welcome to my independent Protocol Security Research portfolio.
 
-This repository contains **70+ original fictional case studies** exploring complex risks across AI Governance, Decision Systems, Smart Contract Security, Financial Infrastructure, Distributed Systems, and Enterprise Risk.
+This repository contains **70+ original fictional security research case studies** designed to explore realistic protocol security scenarios, governance failures, business logic vulnerabilities, and complex system interactions.
 
-My research focuses on identifying hidden failure modes that emerge from decision logic, governance structures, distributed coordination, incentive design, AI-driven automation, and complex adaptive systems—often before they become real-world incidents.
+My research focuses on identifying vulnerabilities that often remain undetected during traditional code-centric security reviews. Rather than concentrating solely on implementation bugs, I analyze how protocol logic, governance rules, execution paths, authorization models, state transitions, and economic incentives interact to create hidden attack surfaces and systemic risks.
 
----
-
-# 📊 Portfolio at a Glance
-
-- 📚 70+ Independent Research Case Studies
-- 🤖 AI Governance & Decision Systems
-- 🔍 Logic-Layer Risk Analysis
-- 🌐 Web3 & Smart Contract Security
-- 🏛 Governance Systems
-- 🏦 Financial Infrastructure
-- ⚙️ Distributed Systems
-- 📈 Enterprise & Systemic Risk
+The objective is to understand how individually correct components can collectively introduce exploitable protocol failures and security weaknesses.
 
 ---
 
-# ⭐ Featured Research
+# 🔬 Research Areas
 
-## 🏦 Case 71 — The Silent Capital Allocation Collapse
+## Protocol Security
 
-**Topics**
-
-- AI Governance
-- Enterprise Risk
-- Banking
-- Credit Risk
-- Portfolio Concentration Risk
-- Economic Resilience
-- Systemic Risk
-- Human Oversight
-
-📖 Read Case Study
-
-https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues/78
+- Protocol Architecture Analysis
+- Protocol Threat Modeling
+- Execution Flow Validation
+- State Transition Analysis
+- Attack Surface Analysis
+- Failure Mode Analysis
+- Business Logic Vulnerability Research
 
 ---
 
-## 📊 Case 68 — The Metric Collapse
+## Smart Contract Security
 
-**Topics**
-
-- Goodhart's Law
-- KPI Gaming
-- AI Governance
-- Feedback Loops
-- Systemic Failure
-
-📖 Read Case Study
-
-https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues/68
-
----
-
-## 🏦 Case 67 — The Hedging Paradox
-
-**Topics**
-
-- Treasury Risk
-- Liquidity Crisis
-- Coordination Failure
-- Systemic Risk
-
-📖 Read Case Study
-
-https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues/67
-
----
-
-## 🌐 Case 58 — Consensus Death
-
-**Topics**
-
-- Distributed Systems
-- Consensus Failure
-- Settlement Integrity
-- Financial Infrastructure
-
-📖 Read Case Study
-
-https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues/58
-
----
-
-## 💧 Case 57 — Algorithmic Liquidity Collapse
-
-**Topics**
-
-- AI Decision Systems
-- Settlement Logic
-- Recursive Systems
-- Financial Infrastructure
-
-📖 Read Case Study
-
-https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues/57
-
----
-
-## 🌍 Case 60 — Synthetic Sovereignty Collapse
-
-**Topics**
-
-- AI Governance
-- Monetary Systems
-- Financial Stability
-- Global Systemic Risk
-
-📖 Read Case Study
-
-https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues/60
-
----
-
-## ⚔️ Smart Contract Security Lab
-
-**Topics**
-
-- Solidity
-- Reentrancy
+- Smart Contract Logic
 - Access Control
-- Logic Vulnerabilities
-
-📖 Read Case Study
-
-https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues/2
-
----
-
-## 🔥 Full-Stack Exploit Chain
-
-**Topics**
-
-- AI Security
-- DeFi
-- Multi-Stage Exploit Chains
-- Protocol Risk
-
-📖 Read Case Study
-
-https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues/8
+- Reentrancy
+- Authorization Logic
+- Time-Lock Security
+- Upgradeability Security
+- Governance Logic
 
 ---
 
-## 🌪️ The Perfect Storm
+## Governance Security
 
-**Topics**
-
-- Hybrid AI Systems
-- Web3 Security
-- Logic Exploitation
-- Systemic Failure
-
-📖 Read Case Study
-
-https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues/4
+- DAO Governance
+- Governance Capture
+- Voting Mechanisms
+- Permission Systems
+- Treasury Governance
+- Governance Risk Assessment
 
 ---
 
-# 🔬 Core Research Areas
+## Distributed Systems
+
+- Consensus Mechanisms
+- Coordination Failures
+- Settlement Integrity
+- Recursive Systems
+- Complex Adaptive Systems
+
+---
 
 ## AI Governance
 
@@ -185,157 +69,208 @@ https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues/4
 - Human Oversight
 - AI Alignment
 - Decision Integrity
-- Governance Design
+- Fairness Constraints
 
-## Logic & Risk Analysis
-
-- Logic-Layer Security
-- Rule Conflict Detection
-- Execution Path Validation
-- Failure Cascade Analysis
-
-## Web3 Security
-
-- Smart Contract Security
-- Governance Security
-- Protocol Risk
-- DeFi Risk Analysis
+---
 
 ## Financial Infrastructure
 
 - Treasury Systems
-- Settlement Systems
 - Liquidity Risk
-- Consensus Mechanisms
-
-## Distributed Systems
-
-- Coordination Failure
-- Recursive Systems
-- Emergent Behaviour
-- Complex Adaptive Systems
+- Settlement Systems
+- Capital Allocation
+- Systemic Risk
 
 ---
 
-# 🛠 Core Skills
+# 📚 Featured Research
+
+## 🏦 Case 71 — The Silent Capital Allocation Collapse
+
+Enterprise AI governance failure leading to systemic capital misallocation.
+
+**Topics**
 
 - AI Governance
+- Banking Systems
+- Credit Risk
 - Enterprise Risk
-- Logic Risk Analysis
-- Decision Systems
+- Systemic Risk
+
+📖 Read:
+https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues/78
+
+---
+
+## 📊 Case 68 — The Metric Collapse
+
+Failure of automated governance caused by optimization against misleading performance metrics.
+
+**Topics**
+
+- Goodhart's Law
+- KPI Manipulation
+- AI Governance
+- Feedback Loops
+- Systemic Failure
+
+📖 Read:
+https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues/68
+
+---
+
+## 🏦 Case 67 — The Hedging Paradox
+
+Protocol-wide liquidity instability caused by coordinated hedging behaviour.
+
+**Topics**
+
+- Treasury Risk
+- Liquidity Risk
+- Coordination Failure
+- Systemic Risk
+
+📖 Read:
+https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues/67
+
+---
+
+## 🌍 Case 60 — Synthetic Sovereignty Collapse
+
+Global monetary instability driven by autonomous governance systems.
+
+**Topics**
+
+- AI Governance
+- Monetary Systems
+- Financial Stability
+- Systemic Risk
+
+📖 Read:
+https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues/60
+
+---
+
+## 🌐 Case 58 — Consensus Death
+
+Failure of distributed consensus resulting in settlement failure.
+
+**Topics**
+
+- Distributed Systems
+- Consensus Failure
+- Settlement Integrity
+
+📖 Read:
+https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues/58
+
+---
+
+## 💧 Case 57 — Algorithmic Liquidity Collapse
+
+Recursive protocol failures leading to liquidity instability.
+
+**Topics**
+
+- Liquidity Risk
+- Settlement Logic
+- AI Decision Systems
+- Financial Infrastructure
+
+📖 Read:
+https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues/57
+
+---
+
+## ⚔️ Smart Contract Security Lab
+
+Security exercises covering common smart contract vulnerabilities.
+
+**Topics**
+
+- Solidity
+- Reentrancy
+- Access Control
+- Business Logic Vulnerabilities
+
+📖 Read:
+https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues/2
+
+---
+
+## 🔥 Full-Stack Exploit Chain
+
+Multi-stage attack simulation across interconnected DeFi protocols.
+
+**Topics**
+
+- Protocol Security
+- DeFi
+- Exploit Chains
+- Cross-Protocol Risk
+
+📖 Read:
+https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues/8
+
+---
+
+## 🌪️ The Perfect Storm
+
+Compound protocol failure caused by interactions between AI systems and Web3 infrastructure.
+
+**Topics**
+
+- Hybrid Systems
+- Logic Exploitation
+- Governance
+- Cascading Failure
+
+📖 Read:
+https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues/4
+
+---
+
+# 🛠 Technical Focus
+
+- Protocol Security Research
 - Smart Contract Security
+- Business Logic Analysis
+- Governance Security
+- Threat Modeling
+- State Transition Analysis
+- Protocol Risk Assessment
 - Distributed Systems
 - Financial Infrastructure
-- Systemic Risk Analysis
+- Systems Thinking
+- Technical Writing
 
 ---
 
-# 🎯 Research Philosophy
+# 🧠 Research Philosophy
 
-Most critical failures are not caused by a single software bug.
+Many critical security incidents are not caused by a single software bug.
 
-They emerge from interactions between AI, governance, distributed systems, financial infrastructure, incentive design, and human decision-making.
+Instead, they emerge from the interaction of protocol logic, governance mechanisms, economic incentives, distributed coordination, AI-assisted decision systems, and human behavior.
 
-My research aims to identify these hidden failure modes before they evolve into real-world incidents.
+This repository explores these interactions through structured security research to better understand how complex systems fail and how protocol designs can be made more resilient.
 
 ---
 
-# 🚀 Roles of Interest
+# 🎯 Roles of Interest
 
-- AI Governance Analyst
-- Enterprise Risk Analyst
-- Logic Risk Analyst
-- Decision Systems Analyst
-- Governance Risk Analyst
-- Protocol Logic Analyst
-- Web3 Risk Researcher
-- Security Researcher
+- Protocol Security Researcher
+- Smart Contract Security Researcher
+- Smart Contract Auditor
+- Blockchain Security Researcher
+- Protocol Risk Analyst
+- Governance Security Analyst
+- Security Research Engineer
+- Web3 Security Researcher
 
 ---
 
 # 📄 Disclaimer
 
-All case studies in this repository are fictional and created solely for educational, analytical, and portfolio purposes. They are not based on confidential information or real organizations.
+All case studies in this repository are fictional and created solely for educational, analytical, and portfolio purposes.
 
-
-INDEX.MD
-
-
-# 📚 Research Case Directory
-
-This page provides quick access to the research case studies included in this repository.
-
----
-
-# 🤖 AI Governance
-
-- Case 60 — Synthetic Sovereignty Collapse
-  https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues/60
-
-- Case 61 — Bias Without Bias
-
-- Case 62 — Alignment Without Control
-
-- Case 68 — The Metric Collapse
-  https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues/68
-
-- Case 71 — The Silent Capital Allocation Collapse
-  https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues/78
-
----
-
-# 🏦 Financial Infrastructure
-
-- Case 57 — Algorithmic Liquidity Collapse
-  https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues/57
-
-- Case 58 — Consensus Death
-  https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues/58
-
-- Case 67 — The Hedging Paradox
-  https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues/67
-
-- Case 70 — Autonomous Treasury Cascade
-
----
-
-# ⚔️ Smart Contract Security
-
-- Case Study — Governance Attack Scenario
-
-- Case Study — Flash Loan Governance Attack
-
-- Case Study — Governance Logic Bug (AND vs OR)
-
-- Smart Contract Security Lab
-  https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues/2
-
-- Full-Stack Exploit Chain
-  https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues/8
-
-- The Perfect Storm
-  https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues/4
-
----
-
-# 🔬 Research Domains
-
-- AI Governance
-- Enterprise Risk
-- Logic-Layer Risk Analysis
-- Decision Systems
-- Smart Contract Security
-- Web3 Security
-- Financial Infrastructure
-- Distributed Systems
-- Systemic Risk
-- Human Oversight
-- Complex Adaptive Systems
-
----
-
-# 📄 About
-
-This repository contains independent fictional research exploring hidden failure modes across AI, governance, financial infrastructure, distributed systems, Web3 ecosystems, and enterprise risk.
-
-The primary objective is to understand how individually correct decisions can collectively create systemic failures.
+They are designed to explore realistic protocol security concepts, governance risks, business logic vulnerabilities, and complex system interactions. They are not based on confidential information, proprietary source code, or real-world security incidents.

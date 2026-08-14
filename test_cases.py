@@ -2,6 +2,7 @@ from risk_engine_v2 import calculate_risk_score
 
 
 test_cases = [
+
     {
         "name": "Test 1 - Normal Transaction",
         "data": {
@@ -60,6 +61,18 @@ test_cases = [
             "blacklisted": False
         },
         "expected": 70
+    },
+
+    {
+        "name": "Test 6 - Blacklist Override",
+        "data": {
+            "amount": 10000,
+            "wallet_age_days": 12,
+            "failed_transactions": 7,
+            "contract_verified": False,
+            "blacklisted": True
+        },
+        "expected": 100
     }
 ]
 
@@ -67,8 +80,10 @@ test_cases = [
 print("=== RISK ENGINE INTEGRITY TEST ===\n")
 
 passed = 0
+failed = 0
 
 for test in test_cases:
+
     actual = calculate_risk_score(test["data"])
 
     if actual == test["expected"]:
@@ -76,12 +91,16 @@ for test in test_cases:
         passed += 1
     else:
         status = "FAILED"
+        failed += 1
 
     print(test["name"])
     print(f"Expected: {test['expected']}")
     print(f"Actual:   {actual}")
     print(f"Status:   {status}")
-    print()
+    print("-" * 40)
 
 
-print(f"Result: {passed}/{len(test_cases)} tests passed")
+print("\n=== TEST SUMMARY ===")
+print(f"Passed: {passed}")
+print(f"Failed: {failed}")
+print(f"Total:  {len(test_cases)}")

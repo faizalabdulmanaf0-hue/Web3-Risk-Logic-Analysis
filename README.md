@@ -163,13 +163,13 @@ PASS / FAIL
 
 The invalid-input tests verify that malformed or logically invalid transaction data is rejected before risk scoring is performed.
 
-Examples include:
+Invalid Input Examples
 
-Missing required fields
-Invalid data types
-Negative transaction amounts
-Negative wallet age
-Negative failed transaction counts
+- Missing required fields
+- Invalid data types
+- Negative transaction amounts
+- Negative wallet age
+- Negative failed transaction counts
 
 Test results should be verified from the latest automated test run rather than manually hard-coded into this documentation.
 
@@ -341,6 +341,8 @@ This repository contains 70+ fictional security research cases exploring:
 - AI-enabled decision systems
 - Systemic risk
 
+Each published research case can be accessed through the repository's GitHub Issues.
+
 ---
 
 🏦 Case 71 — The Silent Capital Allocation Collapse
@@ -349,7 +351,7 @@ Enterprise AI governance failure leading to systemic capital misallocation.
 
 Topics: AI Governance · Banking Systems · Credit Risk · Enterprise Risk · Systemic Risk
 
-Read Case 71
+👉 "Read Case 71 →" (https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues/71)
 
 ---
 
@@ -359,7 +361,7 @@ Failure of automated governance caused by optimization against misleading perfor
 
 Topics: Goodhart's Law · KPI Manipulation · AI Governance · Feedback Loops · Systemic Failure
 
-Read Case 68
+👉 "Read Case 68 →" (https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues/68)
 
 ---
 
@@ -369,7 +371,7 @@ Protocol-wide liquidity instability caused by coordinated hedging behaviour.
 
 Topics: Treasury Risk · Liquidity Risk · Coordination Failure · Systemic Risk
 
-Read Case 67
+👉 "Read Case 67 →" (https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues/67)
 
 ---
 
@@ -379,7 +381,7 @@ Global monetary instability driven by autonomous governance systems.
 
 Topics: AI Governance · Monetary Systems · Financial Stability · Systemic Risk
 
-Read Case 60
+👉 "Read Case 60 →" (https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues/60)
 
 ---
 
@@ -389,7 +391,7 @@ Failure of distributed consensus resulting in settlement failure.
 
 Topics: Distributed Systems · Consensus Failure · Settlement Integrity
 
-Read Case 58
+👉 "Read Case 58 →" (https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues/58)
 
 ---
 
@@ -399,7 +401,7 @@ Recursive protocol failures leading to liquidity instability.
 
 Topics: Liquidity Risk · Settlement Logic · AI Decision Systems · Financial Infrastructure
 
-Read Case 57
+👉 "Read Case 57 →" (https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues/57)
 
 ---
 
@@ -409,7 +411,7 @@ Security exercises covering common smart contract vulnerabilities in controlled 
 
 Topics: Solidity · Reentrancy · Access Control · Business Logic Vulnerabilities
 
-Read Security Lab
+👉 "Open Security Lab →" (https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/tree/main/hamonis-reentrancy-challenge)
 
 «Some security exercises may intentionally contain vulnerabilities for educational purposes. Vulnerable implementations should be treated as controlled training material rather than production code.»
 
@@ -421,7 +423,7 @@ Multi-stage attack simulation across interconnected DeFi protocols.
 
 Topics: Protocol Security · DeFi · Exploit Chains · Cross-Protocol Risk
 
-Read Exploit Chain
+👉 "Browse Research Issues →" (https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues)
 
 ---
 
@@ -431,7 +433,15 @@ Compound protocol failure caused by interactions between AI systems and Web3 inf
 
 Topics: Hybrid Systems · Logic Exploitation · Governance · Cascading Failure
 
-Read Case
+👉 "Browse Research Issues →" (https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues)
+
+---
+
+🔎 Full Research Archive
+
+The complete research archive is maintained through GitHub Issues.
+
+👉 "Browse All Research Cases →" (https://github.com/faizalabdulmanaf0-hue/Web3-Risk-Logic-Analysis/issues)
 
 ---
 
